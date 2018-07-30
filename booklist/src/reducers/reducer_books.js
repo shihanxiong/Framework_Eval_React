@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-export default function() {
+export default () => {
   return [
     {
       title: 'Javascript: The Good Parts',
@@ -19,4 +19,4 @@ export default function() {
       pages: 1,
     },
   ];
-}
+};
